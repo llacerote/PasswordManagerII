@@ -1,4 +1,4 @@
-// Password.java
+
 package com.tuproyecto.gestorcontrasenas.model;
 
 import com.fasterxml.jackson.annotation.JsonBackReference;
