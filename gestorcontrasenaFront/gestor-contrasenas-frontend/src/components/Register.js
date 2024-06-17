@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
 //import './Register.css';
-import logo from '../assets/logo.png'; // Asegúrate de que la ruta sea correcta
+import logo from '../assets/logo.png'; 
 
 const Register = () => {
     const [username, setUsername] = useState('');

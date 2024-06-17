@@ -3,7 +3,7 @@ import { useNavigate } from 'react-router-dom';
 import { useAuth } from '../contexts/AuthContext';
 import 'bootstrap/dist/css/bootstrap.min.css';
 //import './Login.css';
-import logo from '../assets/logo.png'; // Asegúrate de que la ruta sea correcta
+import logo from '../assets/logo.png'; 
 
 const Login = () => {
     const [username, setUsername] = useState('');
